@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ShoesIn - Pastel Elegan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ShoesIn</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Shop</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Pastel Elegan Collection</h2>
+    <p>Sepatu lucu & elegan untuk gaya sehari-hari ✨</p>
+    <button>Shop Now</button>
+  </section>
+
+  <section class="products">
+    <h2>Our Shoes</h2>
+    <div class="product-grid">
+      <div class="product">
+        <img src="img/sepatu1.jpg" alt="Shoes 1">
+        <h3>Pastel Pink</h3>
+        <p>IDR 350.000</p>
+      </div>
+      <div class="product">
+        <img src="img/sepatu2.jpg" alt="Shoes 2">
+        <h3>Mint Green</h3>
+        <p>IDR 340.000</p>
+      </div>
+      <div class="product">
+        <img src="img/sepatu3.jpg" alt="Shoes 3">
+        <h3>Baby Blue</h3>
+        <p>IDR 360.000</p>
+      </div>
+      <div class="product">
+        <img src="img/sepatu4.jpg" alt="Shoes 4">
+        <h3>Cream White</h3>
+        <p>IDR 370.000</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 ShoesIn. All Rights Reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
