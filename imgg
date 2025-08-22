@@ -1,0 +1,9 @@
+ShoesIn/
+│── index.html
+│── style.css
+│── script.js
+│── img/
+     ├── sepatu1.jpg
+     ├── sepatu2.jpg
+     ├── sepatu3.jpg
+     └── sepatu4.jpg
